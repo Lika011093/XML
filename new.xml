@@ -1,0 +1,10 @@
+<student>
+
+  <FirstName>Anzhelika</FirstName>
+  <LastName>Smarhun</LastName>
+  <Patronymic>Anatolievna</Patronymic>
+  <Age>28</Age>
+  <Pets><\Pets>
+  <ExpectedSalary>300$</ExpectedSalary>
+
+</student>
