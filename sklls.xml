@@ -1,0 +1,31 @@
+<sklls>
+
+   <paragraph_1>1. Базовая теория (Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC.</paragraph_1>
+   <paragraph_2>2. Что такое клиент-серверная архитектура.</paragraph_2>
+   <paragraph_3>3. HTTP Методы запросов на сервер.</paragraph_3>
+   <paragraph_4>4. Коды ответов HTTP сервера.</paragraph_4>
+   <paragraph_5>5. Структуры HTTP запросов и ответов.</paragraph_5>
+   <paragraph_6>6. Что такое JSON, XML. Их структура.
+   <paragraph_7>7. Тестирование API через Postman (JS, автотесты API).</paragraph_7>
+   <paragraph_8>8. Снятие и чтение логов c внешнего сервера.",</paragraph_8>
+   <paragraph_9>9. Снифинг http web трафика через Charles и Fiddler.</paragraph_9>
+   <paragraph_10>10. Dev Tools веб браузеров (Google Chrome, FireFox).</paragraph_10>
+   <paragraph_11>11. VPN. (Как работает, зачем нужен, как использовать, варианты инструментов)</paragraph_11>
+   <paragraph_12>12. Мобильное тестирование.",</paragraph_12>
+   <paragraph_13>13. Особенность iOS, Android, гайдлайны.</paragraph_13>
+   <paragraph_14>14. Сборка iOS приложений на XCode. (У кого нет Mac компьютера, просто посмотрят)</paragraph_14>
+   <paragraph_15>15. Сборка Android приложений на Android Studio.</paragraph_15>
+   <paragraph_16>16. ADB (управление андройд девайсами)</paragraph_16>
+   <paragraph_17>17. Настройка прокси и vpn на iOS и Android.</paragraph_17>
+   <paragraph_18>18. Перехват (сниффинг) мобильного трафика через Charles и Fiddler на iOS и Android.</paragraph_18>
+   <paragraph_19>19. Командная строка (terminal) Linux (копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса)</paragraph_19>
+   <paragraph_20>20. Основы bash скриптинг, автоматизация рутинных задач на сервере.</paragraph_20>
+   <paragraph_21>21. Доступ к удалённым серверам.</paragraph_21>
+   <paragraph_22>22. Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join).</paragraph_22>
+   <paragraph_23>23. База данных Postgres (установка, настройка и использование).</paragraph_23>
+   <paragraph_24>24. Нереляционная база данных Redis (установка, настройка и использование).</paragraph_24>
+   <paragraph_25>25. Нагрузочное тестирование в Jmeter.</paragraph_25>
+   <paragraph_26>26. Методология разработки Scrum.</paragraph_26>
+   <paragraph_27>27. Python. (Изучение основ. Создание клиент серверного приложения)</paragraph_27>
+
+</sklls>
